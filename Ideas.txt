@@ -1,0 +1,75 @@
+Quests
+Every sucessfuly completed quest player will be given experience and accoring to that player will be level up. There are achivements/traits of a good person to complete as well they are:
+These achivements required to if a real person to be a better in real public society
+
+Good Traites					Opposite
+1.TrustWorthy                         		UntrustWorthy
+2.Intelligent					Irrational
+3.Supportive/Helpful				Unfavorable
+4.Peaceful					Hateful
+5.Creative					Uncreative			
+6.Self Respect					Self deprecation
+7.Honesty					Dishonesty
+8.Fun						Boring
+9.Determined					Weak-Willed
+10.Kindful					Mean
+11.Social Experience
+
+When palyer completing quest objectives these skills/traits will be incresced accoring to the quest objectives
+Example: If player help some one, the traites Supportive and Kindfull wil be incresced.
+
+Then again if player fails to complete the objective or made a bad decision opssoite traits will increse those will reduce the good trailts points if that happens more often
+the character will end up being "Ultimate bad guy"
+
+According to these trait complition and doing some calculation the overall quality of the person (Ultimate Person)..................
+
+
+QuestsTypes
+
+Main Quest
+Jason Dream about a cool bicycle which he riding happily. When he woke up he thinks he should buy a buy a bicycle. He tells mom about this idea but mom refue it give money
+becasue there are too much of bills to pay insted of buying a bicycle. When jason insist of buyoing a bicycle, mom telling him to try to build a bicycle from your own. But jason 
+don't have the parts to build it so he set  on quest to find those biycle parts...
+
+
+Side Quests - from NPC's
+
+
+
+
+
+
+Random Event Quests
+Parameters Required : Good Traits related with this event, Bad Traites related with this event, amount of Experience gain by completing, concequnces
+
+*1st - Throwing a basket ball scene
+When jaosn come out of the house, he sees a kid waving at him to throw a basket ball which near him. **Player can choose if they want to throw the ball or just ignore it" 
+========= if they ignore it [Unfavorable]  will increase, if they choose to throw the the ball back to kid [Helpful,Kindful] will increase.
+When jason throws the ball back to kid he will try to throw it back to jason but jason will not be able to catch the ball, so ball hit jason's house windows and brake the glass
+after that happens jason's mom will come out...
+========when mom asks who broke the window player can take blame him self, or blame the kid...if palyer take blame on jason [Kindfull, Helpful] will incresce while [Dishonesty] also increaces
+if player told the truth [Honesty] will increase and [Mean,Unfavorable] will increase. 
+
+2nd - Boys fighting in a coner of the city scene
+When jason going through city he sees some boys beating one boy..jason can go ignoring the event or he can go and interupt it out...
+=======if player ignore it [Unfavorable,Hateful] will increasce
+Then cutscene plays where jason goes and trying to stop the fight between them...and jason asks whats the reason for beating him? they say that he tries to pickpoket him... 
+here play can choose he deserverd the beating [Mean] or he don't deserve it let other guys stop beating and save him [Self Respect,Kindful,Peaceful]...
+
+3rd- Taking beaten boy home
+if player save that boy from beating
+that boy will ask take him home with jason becasue he is afriad of getting beat up again and he tells jason that, please don't tell my mom about I got beat up becasue I tried to stole money
+when jason and that boy arrived at their house his mom asks what happen to him and why he got beaten up?
+======here player can lie and save the beaten kid from his mom's blames [TrustWorthy,Intelligent,Supportive] as good traits and as bad traits [Dishonesty] if he told the truth about the boy
+[Honesty] will increase as good trait and [UntrustWorthy,Irrational,Unfavorable] will increase..
+
+4th- A lady dropping her purse on the road
+jason sees a lady dropping her purse on the ground Player can choice either take that purse and give to the lady or keep it...if player choose to give it to the lady [Helpful] will increase or
+[Unfavorable] will increase...
+
+Then new side quest will be available========>
+
+5th - Sad boy cheer up dancing scence
+When jason walks around he see two boys talking to each other but one boy is crying...jason go and interact with them he asks why this boy crying, and other boy was his brother
+he says that he is crying because .................................. and only thing that he makes happy of a particular dance..the brother asks from jason if you can do that dance for him
+if player choose to dance [Kindful,Fun] or refuse [Boring] if jason dance the kid will be happy
